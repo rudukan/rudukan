@@ -1,29 +1,12 @@
-# Hi, I'm Durukan Kaplan
+# Hey, I'm Durukan 👋
 
-**Senior Application Support Specialist · Jira / JSM Admin · Production Support**
+I like turning everyday ideas into things I can actually use — and sometimes into games.
 
-I help keep business-critical applications running and make technical problems easier for people to understand. My background combines electrical engineering with 5+ years in application support across financial services and healthcare.
+My background is in application support. Here, I explore the building side of technology: small web apps, automation, and experiments with AI.
 
-## Professional experience
+## A couple of things I've been building
 
-- **Production support:** incident coordination, troubleshooting, vendor collaboration, and following issues through to resolution.
-- **Jira & Jira Service Management:** administration, workflows, service portals, SLA configuration, and automation.
-- **Application delivery:** UAT and production releases with Octopus Deploy, IIS operations, and REST API validation with Swagger.
-- **People & documentation:** gathering user needs, delivering training, and translating between technical teams and business users.
+- **[TossIn](https://github.com/rudukan/TossIn)** — somewhere to drop thoughts and tasks through Telegram, then come back and organize them. Text, voice, and a little help from AI.
+- **[Miras](https://github.com/rudukan/miras)** — a browser game that asks: what would you do if you suddenly inherited $1 million?
 
-At Trive, I resolved **2,800+ production tickets**, with **98% SLA compliance on service requests**, and administered a Jira / JSM estate of **50+ projects**.
-
-## Personal projects & AI-assisted learning
-
-I use AI-assisted development to build practical tools and learn through real projects. These are personal projects, alongside my professional application support experience.
-
-### [TossIn](https://github.com/rudukan/TossIn)
-
-A personal note and task application that captures text and voice messages through Telegram, uses AI to organize them, and provides a web board for review.
-
-Built with Next.js, TypeScript, Supabase, the Telegram Bot API, and LLM / speech-to-text APIs.
-
----
-
-B.Sc. Electrical Engineering, Istanbul Technical University · Istanbul, Türkiye  
-Turkish & English
+I use AI tools throughout my personal projects. Building, trying things out, and improving what doesn't work is how I learn.
